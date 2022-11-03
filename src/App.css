@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -24,6 +24,48 @@
   color: white;
 }
 
+*/
+
+.admin-page{
+  display: block;
+  position: relative;
+  background-image: repeating-linear-gradient(red,yellow,green);
+  height:100vh;
+  z-index: 100;
+}
+
+.body{
+  width:100%;
+  display: flex;
+  justify-content: center;
+  position:relative;
+  top:20px;
+  z-index: 2;
+}
+
+input{
+  border-radius: 12px;
+  padding:2px;
+}
+
+button{
+  border-radius: 15px;
+  background-image: linear-gradient(to right,pink,yellow);
+}
+
+.icon-close{
+  color:rgb(213, 24, 24)
+}
+
+.loginGrid{
+  display: grid;
+  position:relative;
+  justify-content: center;
+  align-items: center;
+}
+
+/*
+
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +77,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

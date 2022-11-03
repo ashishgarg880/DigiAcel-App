@@ -1,0 +1,30 @@
+[
+    {
+        "switch":"easy",
+        "id":1,
+        "question":"which is the country biggest in the world?",
+        "answer":["Japan","Canada","India","America"],
+        "finalAnswer":3
+    },
+    {
+        "switch":"hard",
+        "id":2,
+        "question":"which of the area biggest in the world?",
+        "answer":["Japan","China","India","America"],
+        "finalAnswer":2
+    },
+    {
+        "switch":"hard",
+        "id":3,
+        "question":"what is the best monument in the india?",
+        "answer":["Gateway of India","Taj Mahal","Qutab Minar","Charminar"],
+        "finalAnswer":2
+    },
+    {
+        "switch":"easy",
+        "id":4,
+        "question":"which of one is the paradise on earth in india?",
+        "answer":["Kashmir","Himachal Pradesh","Amritsar","Chandigarh"],
+        "finalAnswer":1
+    }
+]
