@@ -2,16 +2,16 @@
     {
         "switch":"easy",
         "id":1,
-        "question":"which is the country biggest in the world?",
+        "question":"which is the biggest country in the world?",
         "answer":["Japan","Canada","India","America"],
-        "finalAnswer":3
+        "finalAnswer":2
     },
     {
         "switch":"hard",
         "id":2,
-        "question":"which of the area biggest in the world?",
+        "question":"which of the biggest area in the world?",
         "answer":["Japan","China","India","America"],
-        "finalAnswer":2
+        "finalAnswer":1
     },
     {
         "switch":"hard",
@@ -25,6 +25,6 @@
         "id":4,
         "question":"which of one is the paradise on earth in india?",
         "answer":["Kashmir","Himachal Pradesh","Amritsar","Chandigarh"],
-        "finalAnswer":1
+        "finalAnswer":0
     }
 ]

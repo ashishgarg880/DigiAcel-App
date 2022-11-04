@@ -5,7 +5,7 @@ import Start from "./Start";
 const Home = () => {
   
   return (
-    <div>
+    <div style={{padding:"20px"}}>
       <Quiz />
     </div>
   );
